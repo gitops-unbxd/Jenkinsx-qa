@@ -24,7 +24,7 @@ dependencies:
   version: 1.0.30
 - name: search-configurator
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.6.6
+  version: 2.7.1
 - name: solr-plugin
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.5.37
