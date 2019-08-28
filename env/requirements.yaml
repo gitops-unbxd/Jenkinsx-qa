@@ -27,7 +27,7 @@ dependencies:
   version: 2.7.1
 - name: solr-plugin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.6.16
+  version: 0.6.17
 - name: wingman
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.0.9
