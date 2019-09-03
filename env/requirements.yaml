@@ -21,7 +21,7 @@ dependencies:
   version: 11.4.43
 - name: rule-engine
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.34
+  version: 1.0.35
 - name: search-configurator
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.7.1
